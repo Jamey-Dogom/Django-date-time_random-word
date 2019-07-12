@@ -1,0 +1,26 @@
+body {
+    background-color: #212529;
+}
+.center {
+    margin-left: 20%;
+    margin-top: 6%;
+    align-content: center;
+}
+
+h1 {
+    border: 2px solid black;
+    text-align: center;
+    width: 70%;
+    padding: 10px 50px 50px 60px;
+    color: white;
+}
+
+h5 {
+    border: 2px solid black;
+    max-width: max-content;
+    text-align: center;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    padding: 5px 20px 20px 20px;
+    color: white;
+}
